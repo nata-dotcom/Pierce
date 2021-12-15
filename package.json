@@ -1,0 +1,20 @@
+{
+  "name": "pierce",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nata-dotcom/Pierce.git"
+  },
+  "author": "Nataliia Ostberg",
+  "license": "ISC",
+  
+  "homepage": "https://github.com/nata-dotcom/Pierce#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
